@@ -1,3 +1,3 @@
 export interface display{
-    value:number
+    value:string
 }
